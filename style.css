@@ -18,7 +18,7 @@ main{
 }
 
 .title{
-    color: #ffcc00;
+    color: purple;
     margin: 20vh auto;
     font-size: calc(5vw + 20px);
     text-shadow: 0 0 10px black,
